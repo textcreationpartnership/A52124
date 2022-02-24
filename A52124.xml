@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of the new heavens and new earth. Proved to be perpetual and eternal, in that visible state of both, in the restitution, after the destruction of the world by fire. Whereunto is added, a true state of the thousand years-time; proving it to be before the second coming of Christ. As also, the succinct order of things from Christs first appearing in the clouds, unto the eternal state, after the day of judgment. By T.M. a lover of truth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52124</idno>
+            <idno type="STC">Wing M86</idno>
+            <idno type="STC">ESTC R221371</idno>
+            <idno type="EEBO-CITATION">99832690</idno>
+            <idno type="PROQUEST">99832690</idno>
+            <idno type="VID">37164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37164)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1781:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of the new heavens and new earth. Proved to be perpetual and eternal, in that visible state of both, in the restitution, after the destruction of the world by fire. Whereunto is added, a true state of the thousand years-time; proving it to be before the second coming of Christ. As also, the succinct order of things from Christs first appearing in the clouds, unto the eternal state, after the day of judgment. By T.M. a lover of truth.</title>
+               </titleStmt>
+               <extent>[2], 13, [1]   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment Day --  Phrophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37164:1"/>
+            <p>A TREATISE OF The New Heavens and New Earth.</p>
+            <p>Proved to be Perpetual and Eternal, in that Viſible State of both, in the <hi>Reſtitution,</hi> after the deſtru<g ref="char:EOLhyphen"/>ction of the World by <hi>Fire.</hi>
+            </p>
+            <p>Whereunto is added, A true State of the <hi>Thouſand years</hi>-time; proving it to be before the ſecond Coming of Chriſt.</p>
+            <p>As alſo, the Succinct Order of things from Chriſts firſt Appearing in the Clouds, unto the Eternal State, after the Day of Judgment.</p>
+            <p>
+               <hi>By</hi> T. M. <hi>a Lover of</hi> TRUTH.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 119.162.</hi>
+               </bibl>
+               <p>I rejoyce at thy word as one that findeth great ſpoil.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 25.25.</hi>
+               </bibl>
+               <p>As cold waters to a thirsty Soul, ſo is good news from a far country.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iſa. 33.17</hi>
+               </bibl>
+               <p>Thine eyes ſhall ſee the King in his beauty: they ſhall behold the land that is very far off.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:37164:2"/>
+            <pb n="1" facs="tcp:37164:2"/>
+            <head>A TREATISE OF THE New HEAVENS and EARTH.</head>
+            <p>THE main Subject of this Treatiſe is the Myſtery of <hi>New Heavens and Earth,</hi> as reſtored in the State of Eternal Glory.</p>
+            <p>As an Apology for the Impreſſion I muſt ſay, The Deſtruction of this Viſible Heaven and Earth <hi>by Fire,</hi> is a Truth I was bred up in from a Child, from 2 <hi>Pet.</hi> 3. though I find divers queſtion it.</p>
+            <p>Though it hath been pretended many others have wrote of this Subject, I never yet ſaw one that Treated mainly, or purpoſely, or poſitively on it; and but one that mentions it at all; and that ſo by the by, and as probable; that he left it in doubt.</p>
+            <p>And moreover, the ſame Book (and Author) is ſo erroneous in other points, that I think it unſafe to commend any Reader to it.</p>
+            <p>Which Errors have been ſoundly anſwered by another; with the harmonious aſſent of divers able Miniſters Except about the Sonſhip of Chriſt; wherein I humbly conceive they did not ſo underſtand him; though the things they urged againſt him in it, were alſo ſound.</p>
+            <p>In a Word, if this (my) Diſcovery of the New and Eternal State of the <hi>Earth</hi> as well as <hi>Heaven,</hi> be a Truth, 'tis no light matter: nor any Infirmities in me ſhould make it to be deſpiſed; But mend that in your own Search after it, that you conceive deſective in mine: I ſhall be as glad of a further Revelation by another, as I am of this Degree by my ſelf.</p>
+            <p>As to the Second Subject of the <hi>Thouſand Years;</hi> I did not make it my Intention, nor had I writ here of it, Only I was forced to mention and make out the ſame, as to the <hi>Time</hi> of it, that I might diſtinguiſh it (in the Scripture-Repreſentations) not to be con<g ref="char:EOLhyphen"/>founded nor contemporary with the main ſubject Hereof.</p>
+            <pb n="2" facs="tcp:37164:3"/>
+            <p>For which cauſe alſo I was forced to preſent a Specimem of the Order of things from Chriſts (Firſt) Appearing in the Clouds, to the Eternal State: which alſo leads to the Completion of my Deſign, <hi>The New Heavens and Earth,</hi> as to be Eternal.</p>
+            <p>Which may be comprized in this Poſition:
+<q>That after the Destruction of the Heavens and Earth that now are, by fire: (and af<g ref="char:EOLhyphen"/>ter the Day of Judgment) there will be a glorious Renewed State of both; which ſhall be the Inheritance of the Sons of God, and the glorious Kingdom of the Lord Jeſus Christ for ever and ever.</q>
+            </p>
+            <p>
+               <hi>Arguments</hi> to evidence this;</p>
+            <p n="1">I. We are taught to Pray, <hi>Thy Kingdom come, thy Will be done in Earth as it is in Heaven,</hi> Mat. 6.10. This Prayer is to be performed in all Ages, till the <hi>Kingdom come,</hi> and <hi>the Will</hi> of God <hi>be done in Earth as it is</hi> now <hi>in Heaven:</hi> And we muſt <hi>Petition</hi> nothing but <hi>according to the Will of God;</hi> and therein <hi>he will hear us:</hi> See 1 John 5.14, 15.</p>
+            <p>Now the Will of God ſhall <hi>be done in Earth as it is in Heaven,</hi> in 2 Reſpects:
+<list>
+                  <item>1. <hi>In Heaven</hi> it is done infallibly; Not the leaſt failing, Mat. 13.41. This proves that the <hi>Thouſand years Reign</hi> doth not perfectly fulfil this: for a ſeed of evil-Doers is left in the Kingdom then; who after the 1000 years, make head againſt the <hi>Camp of the Saints,</hi> in the Attempt of <hi>Gog</hi> and <hi>Magog,</hi> Rev. 20.8, 9. Nor yet will the Saints be then perfect<g ref="char:EOLhyphen"/>ly free from Sin, being before the bodies <hi>Reſurrection;</hi> as page.</item>
+                  <item>2. <hi>In Heaven,</hi> the Will of God is done by all (and only) thoſe that are perfect and glo<g ref="char:EOLhyphen"/>rified; Pſal. 103.19, 20, 21. Hebr. 12.23. So ſhall it be alſo in the <hi>Reſurrection, and world to come,</hi> Luke 20.35, 36. John 1. laſt. See Page 4.</item>
+               </list>
+            </p>
+            <p>And conſequently, when the Will of God is thus <hi>done in Earth;</hi> and the Doers of it thus glorified; It follows that they ſhall remain upon the Earth; That the Earth ſhall be made glorious as Heaven is: And alſo abide for ever, from the enſuing <hi>Arguments.</hi>
+            </p>
+            <p n="2">II. <hi>Argument.</hi> Chriſt ſhall <hi>Reign on the Throne of his Father David; for ever,</hi> and <hi>for ever and ever:</hi> Luke 1.32, 33. Iſa. 9.7. Jer. 23.5. Hebr. 1.8. <hi>Rev.</hi> 11.15.</p>
+            <p>To Explain this, conſider two things:
+<list>
+                  <item>1. His Reign now <hi>on the right hand of the Throne of the Majeſty in the Heavens</hi> (Hebr. 8.1. <hi>is on his Fathers Throne;</hi> Rev. 3.21. which <hi>Kingdom he is to deliver up at the end, to God</hi> again; 1 <hi>Cor.</hi> 15.24-28.</item>
+                  <item>2. His Kingdom now in the Churches, is indeed <hi>the budding of the Horn of David,</hi> Pſal. 132.17. (The New Creature is) a <hi>kind of first fruits of his Creatures;</hi> according to pur<g ref="char:EOLhyphen"/>poſe ordain'd for this New <hi>Creation:</hi> which, as the Creature it ſelf, ſo alſo the Saints ha<g ref="char:EOLhyphen"/>ving <hi>the first fruits of the Spirit, groan — for;</hi> Rom. 8.22, 23. And even now, this true Iſrael is their Davids Glory, <hi>the riches of the Glory of his Inheritance,</hi> Epheſ. 1.18. And as it begins in Regeneration, ſo it grows up in the World in ſucceeding Ages, till the King<g ref="char:EOLhyphen"/>domes become Chriſts, <hi>Revel.</hi> 11.15. Dan. 7.27. <hi>Revel.</hi> 20.4. and to be over all the world for a Thouſand years. But after the end of this World by fire (in the <hi>firſt Death</hi> and change upon all Creatures:) As his Kindom (to wit, on Davids Throne) had been ſown in this World, ſo it ſprings up in the World to come, in the <hi>New heaven and Earth, where<g ref="char:EOLhyphen"/>in ſhall dwell-righteouſneſs,</hi> 2 Pet. 3.13. And in this <hi>World to come</hi> is <hi>the everlaſting King<g ref="char:EOLhyphen"/>dom,</hi> 2 Pet. 1.11. and <hi>the everlasting life,</hi> Luk. 18, 30. <hi>Revel.</hi> 21.1,—5. the wicked being <hi>Judged</hi> and <hi>cast into the Lake, Rev.</hi> 20. end.</item>
+               </list>
+            </p>
+            <p>Now, whereas his Kingdom is ſaid to be <hi>for ever;</hi> and for <hi>ever and ever,</hi> and <hi>everlaſting <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <pb n="3" facs="tcp:37164:3"/>though thoſe terms in the Old Teſtament phraſe are temporal, and but for a ſet time; yet, in the New Teſtament, it reſpects Eternity; 2 John 2.1 Theſs. 4.17. Revel. 1.6. Matth. 19.29 So <hi>Luke</hi> 1.32.33. 2 Pet. 1.11, &amp;c.</p>
+            <p>Now the preſent Diſpenſation of his Kingdom as now upon his <hi>Fathers Throne</hi> in <hi>hea<g ref="char:EOLhyphen"/>ven,</hi> Revel. 3.21. being at laſt to be delivered up <hi>again to God;</hi> 1 Cor. 15.24. and the <hi>Son himſelf be ſubject,</hi> in that reſpect; And (yet) his Kingdom muſt be <hi>everlaſting:</hi> There<g ref="char:EOLhyphen"/>fore it follows, That it ſhall be in the <hi>New heavens and Earth,</hi> Eternally; as unto which he was <hi>born</hi> (typically and according to the fleſh) <hi>King of the Jews,</hi> Matt. 2.2. of the <hi>Seed of David,</hi> and as heir apparent, <hi>to ſit upon his Throne,</hi> Luke 1.32.33.</p>
+            <p>And as he is Seed of <hi>David</hi> in point of <hi>Kingly Right,</hi> ſo alſo the Seed of <hi>Abraham,</hi> to whom in a ſpecial manner the Promiſes (of <hi>Inheritance</hi>) were made; Which induces, the</p>
+            <p n="3">III. Argument, <hi>Abraham and his Seed</hi> are to be <hi>heirs of the World,</hi> Rom. 4.13. Where<g ref="char:EOLhyphen"/>as it is ſaid, <hi>Theſe all died in Faith, not having received the Promiſes, &amp;c.</hi> Hebr. 11.13. Acts 7.5. Inever read that <hi>Heaven</hi> without the <hi>Earth</hi> is called the <hi>World.</hi> Only, they are not to Inherit the world <hi>that now is;</hi> (that is <hi>reſerved unto fire,</hi> 2 <hi>Pet.</hi> 3.7.) <hi>but the world to come,</hi> Luke 20.35, 36. in the renewed State, Hebr. 2.5. Wherein they <hi>ſhall reign upon the Earth,</hi> Rev 5.10.</p>
+            <p>For before the Reſurrection and day of Judgment, there is no time (imaginable) where<g ref="char:EOLhyphen"/>in they could be <hi>heirs of the world:</hi> for they are with the Lord in Glory till then; And</p>
+            <p>After the <hi>Reſurrection of the Just</hi> follows the burning up of <hi>this World</hi> and <hi>the Works thereof,</hi> 2 Pet. 3.10. So that No other World remains to the bleſſed Seed for an <hi>Inheritance</hi> but that of <hi>New heavens and earth;</hi> after <hi>the end of all things</hi> (in this world) <hi>Rev.</hi> 21.1. 2 Pet. 3.13.</p>
+            <p n="4">IV. <hi>Argument,</hi> We read Hebr. 2 5 of a <hi>World to come;</hi> wherein Chriſt is to have <hi>all in ſubjection under him,</hi> ver. 8. <hi>Epheſ.</hi> 1.20.21. As to which obſerve,
+<list>
+                  <item>1. That <hi>That World</hi> is alotted to the time at and after the Reſurrection, <hi>Luke</hi> 20.35, 36. (in a State of perfect Glory) called <hi>that World.</hi>
+                  </item>
+                  <item>2. Hebr. 2. Speaks of the Dominion in <hi>the World to come,</hi> as accrewing to Jeſus Chriſt by reaſon of his humane Nature; as recovering what was loſt in the <hi>firſt Adam;</hi> being <hi>head over all things to the Church,</hi> (both in heaven above and earth beneath, Phil. 2.10.) <hi>both in this World, and that to come,</hi> Epheſ. 1.21, 22.</item>
+                  <item>3. Hebr. 2. Speaks of Mans poſſeſſion by Creation, Which is the <hi>Earth</hi> and viſible Hea<g ref="char:EOLhyphen"/>ven: Onely upon occaſion of Mans fall, the <hi>Lord from Heaven,</hi> acquaints us with <hi>That</hi> Glory alſo: Yet notwithſtanding the heavenly Glory of Chriſt, he deſcends to a ſtate <hi>low<g ref="char:EOLhyphen"/>er than the Angels:</hi> put himſelf into the Caſe and Place of Gods Elect, <hi>took the ſeed of A<g ref="char:EOLhyphen"/>braham on</hi> him, Hebr. 2.16. and ſo became <hi>heir,</hi> (as before) and <hi>purchaſed</hi> the <hi>poſſeſſion</hi> (that had been ſold under the <hi>Curſe</hi>) Epheſ. 1.18. <hi>Revel.</hi> 21.3.</item>
+                  <item>4. Hebr. 2.8. 'Tis ſaid <hi>We ſee not yet all things put under him:</hi> But in Heaven he has all in perfect Subjection from the very firſt: Therefore it muſt be <hi>on Earth.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="5">V. <hi>Argument.</hi> Acts 3.21. <hi>The Reſtitution of all things.</hi>
+            </p>
+            <p>Which muſt reſpect the Viſible things of the <hi>Creation;</hi> Spoken of <hi>Rom,</hi> 8.19, 20, 21, 22. which the Apoſtle calls the <hi>Glory that was to be reavealed in</hi> the Saints; (then alive;) and therefore, not to be till the Reſurrection of their <hi>bodies;</hi> according to verſ. 23. <hi>wai<g ref="char:EOLhyphen"/>ting for the Adoption; to wit, the Redemption of our bodies; Phil.</hi> 3.21.</p>
+            <p>This <hi>Restitution</hi> will be ſuch as was made under the Law; to wit, <hi>A Fifth part added to the principal, Exod.</hi> 22.3, 4. <hi>Levit.</hi> 6.4, 5. So in this, No Sun, Moon or Stars in their
+<pb n="4" facs="tcp:37164:4"/>Courſes (for there is <hi>no night there, Rev.</hi> 21.23, 25.) and no Temple, ver. 22. But an in<g ref="char:EOLhyphen"/>finite Glory ſupplies the place of both. And here I conceive will be the ultimate fulfilling that ſaying, Cant. 2.17, &amp;c. <hi>till — the ſhadows flee away, &amp;c.</hi> Whereas now the Lights of this World, being finite and remote from us, do neceſſarily caſt a Shadow by the Subſtantial form they ſhine upon: So is it Light on the one ſide, but dark on the other: And ſo in the Abſence of the ſun, the ſhadows of the Evening draw upon the Earth: But when the Light ſhall be omnipreſent, there ſhall be no <hi>Shadows</hi> any more, <hi>No night there,</hi> Revel. 21.25.</p>
+            <p>Again, though the Thouſand years Reign admits of a good Degree of this glory of the <hi>Restitution:</hi> yet the time of the <hi>Reſtitution of all things</hi> is expreſsly reſerved to the Reve<g ref="char:EOLhyphen"/>lation of <hi>Jeſus Chriſt</hi> from <hi>heaven,</hi> Acts 3.21 and then to be fulfilled: which if he comes not to reſtore he comes to Deſtroy; 2 Pet. 3.10. But he will Reſtore after he hath Deſtroy<g ref="char:EOLhyphen"/>ed, verſ. 13. Revel. 21.1.</p>
+            <p n="6">VI. <hi>Argument,</hi> From <hi>John</hi> 1. laſt, <hi>Verily. verily, I ſay unto you, hereafter ye ſhall ſee heaven open, and the Angels of God aſcending and deſcending upon the Son of man.</hi>
+            </p>
+            <p>Obſerve that the word is <hi>open,</hi> (and notes a ſtate of Continuance:) and nor <hi>opened;</hi> as it was opened to <hi>Stephen</hi> for a moment; Acts 7.56. And to <hi>Peter</hi> in a <hi>Trance,</hi> Chap. 10.11.</p>
+            <p>The words allude to <hi>Jacobs Dream,</hi> Gen. 28. and imports a tranſcendant union to be be<g ref="char:EOLhyphen"/>tween <hi>Heaven</hi> and <hi>Earth;</hi> through the riches of the Grace of Chriſt; and by the Recour<g ref="char:EOLhyphen"/>ſes of Angels.</p>
+            <p>By the Manhood of Chriſt, fallen man is dignified to a fellowſhip and equallity with <hi>An<g ref="char:EOLhyphen"/>gels,</hi> Luke 20.35, 36. and ſhall be alſo Reſtored to his created poſſeſſion, the Earth.</p>
+            <p>—<hi>The Angels of God aſcending and deſcending,</hi> &amp;c.] This cannot be before, but in the <hi>new Heaven</hi> and <hi>Earth,</hi> after ther day of Judgment.</p>
+            <p>For <hi>firſt</hi> Chriſt appears; <hi>then</hi> the Tribes mourn at the ſight of him; <hi>then</hi> the dead are raiſed, <hi>then</hi> the living Saints are Changed; <hi>then</hi> all (of them) caught up to the Lord in the air; <hi>then</hi> the Earth to be burnt up, &amp;c. <hi>then</hi> begins the Judgment. Now in any time <hi>be<g ref="char:EOLhyphen"/>fore</hi> the Judgment what Aſcending or Deſcending of the Angels as in a fixed ſtate? for the <hi>Dead</hi> Saints are raiſed by a <hi>Word,</hi> quickly, John 5 28. and the <hi>living</hi> Saints <hi>changed in the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inkling of an Eye,</hi> 1 Cor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 5.52.</p>
+            <p>And <hi>in</hi> the Judgment it ſelf, the Angels ſeem otherwiſe diſpoſed: as being preſent Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Chriſts owning and diſowning perſons; <hi>Mark</hi> 8.38. <hi>Revel.</hi> 3.5. and at laſt <hi>bund<g ref="char:EOLhyphen"/>ling the Tures and caſting them to the fire,</hi> Matth. 13.30, 40, 41, 42.</p>
+            <p>And therefore it muſt be <hi>after</hi> the Judgment, that the <hi>Angels</hi> will ſo <hi>aſcend and deſcend.</hi> And this the Lord Jeſus propoſeth to them as the conſummation of the Myſtery of Divine Counſel at the end of time: and that the Deſign of God in particular lay upon this, to re<g ref="char:EOLhyphen"/>ſtore the Earth, <hi/> as being indeed <hi>great things,</hi> John 1.50.51.</p>
+            <p>We ought not, as not too carnally to think hereof, ſo neither to think the things them<g ref="char:EOLhyphen"/>ſelves are carnal. Chriſt himſelf put a greater <hi>Marvel</hi> upon the Reſurrection of <hi>bodies,</hi> John 5 28 than that of Regeneration by Faith, <hi>ver.</hi> 25. And ſo John 1. the two laſt verſes.</p>
+            <p>Again, The Goſpel (that brings life and immortality to Light, exhibits the Eternal Glo<g ref="char:EOLhyphen"/>ry in the <hi>nature of man,</hi> (in Jeſus Chriſt) as the Saviour and Object of Worſhip; Where<g ref="char:EOLhyphen"/>as the inviſible God in the Old Teſtament was adored; but we do not blame <hi>Thomat</hi> for ſaying to Chriſt <hi>my Lord and my God:</hi> Neither think it carnal, becauſe the fulneſs of the Godhead dwells bodily in him; So, the Lord glorifying the Earth, (as <hi>the place of his fect,</hi> Iſai 60.13) it appears to me that it will be accommodate and adapt to humane
+<pb n="5" facs="tcp:37164:4"/>bodies, though glorified, more than an immaterial viſional glory can be (ſuppoſed to be.)</p>
+            <p n="7">VII. <hi>Argument,</hi> To prove the Earths duration Eternal, as a place of Glory, is, theſe Scriptures that appear to aſſign the <hi>Sea's place</hi> to be the <hi>place of Hell,</hi> hereafter.</p>
+            <p>
+               <hi>Revel.</hi> 21.1 <hi>Iſai.</hi> 66.24 compared with <hi>Mark</hi> 9.43.44. — <hi>there was no more Sea;</hi> but there was a <hi>new Earth.</hi> — Iſai. 66. <hi>They ſhall go forth and look upon the Carcaſes of the men; &amp;c. for their Worm ſhall not dye; &amp;c.</hi> Which Chriſt expounds of <hi>Hell fire,</hi> Mark 9.44, &amp;c.</p>
+            <p>Now the Argument is this, <hi>If they ſhall go forth to look upon</hi> them, then they do not <hi>come down</hi> from Heaven to do it. But being upon the Earth, <hi>going forth</hi> (ſo to do) is very pro<g ref="char:EOLhyphen"/>per.</p>
+            <p>Again, Hell is called a <hi>Lake;</hi> Revel. 20.10, 14, 15. Chap. 21.8. So are ſome Seas (now) called, <hi>Luke</hi> 5.1. &amp; 8.22.</p>
+            <p>And though there be many Seas now, and many Iſlands; yet great Transformations may paſs upon the terreſtrial globe by its Conflagration, perhaps to the reducing the ma<g ref="char:EOLhyphen"/>ny Seas into one Tophet; and the whole Earth into one intire Continent; for the Redeem<g ref="char:EOLhyphen"/>ed to walk there, 2 Pet. 3.10, 13.</p>
+            <p>So <hi>Revel.</hi> 6, 14. When this day of the Lord is preſented to us, 'tis ſaid, <hi>The heavens de<g ref="char:EOLhyphen"/>parted as a Scroll,— and every Mountain and Iſland were moved out of their places.</hi>
+            </p>
+            <p>Which is called a <hi>ſhaking,</hi> Hebr. 12.26, 27. <hi>melting, diſſolving, burning up,</hi> 2 Pet. 3.10, 11. <hi>folding up and changing,</hi> Hebr. 1.12. But none of theſe expreſs an Annihilation, but deſtroying the form and ſurface, and the works of men on the Earth: In order to its paſ<g ref="char:EOLhyphen"/>ſing into a New State, when <hi>he that ſitteth upon the Throne</hi> ſaith, <hi>behold, I make all things new, Revel.</hi> 21.1.—5.</p>
+            <p>
+               <hi>Object. But if the Sea ſhall be Hell hereafter, then there is no Hell now.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Hell is called a Priſon, 1 Pet. 3.19. But being they are ſpirits only that as yet are therein, Its a queſtion whether any ſpacious place be needful thereunto. Whether they reſide now in the deep, or in the air, I leave it: Only the Damn'd ſpirits are in Chains of Darkneſs, <hi>Jude</hi> 6.</p>
+            <p n="8">VIII. <hi>Argument.</hi> To prove the Immortality and Eternity of this <hi>New State;</hi> is to conſider, That nothing but <hi>ſin</hi> brings Deſtruction.</p>
+            <p>And God will free this <hi>New State</hi> from both the Cauſe and Effects of <hi>Sin;</hi> and alſo ſe<g ref="char:EOLhyphen"/>cure it from both, for the future.</p>
+            <p n="1">1. Satan, that was the Occaſion of the firſt Sin in the World, is before this judged to the Lake, — <hi>Rev.</hi> 20.10, 14.</p>
+            <p n="2">2. <hi>And there ſhall be no more Curſe,</hi> Revel. 21.3.</p>
+            <p>So that the firſt Wound by Mans fall is perfectly cured; and the Effect thereof is no other than a perfect Reſtitution.</p>
+            <p n="3">3. Jeſus Chriſt the <hi>Lord from Heaven,</hi> that (was to) come down thence to help the ſinking Earth, when it ſailed in its head, Man; in the manifold Wiſdom of God did not only make peace for man by the blood of his Croſs; but alſo (as Angels alſo had faln<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from Heaven:) Reconciled all things in one (in himſelf) both things in heaven and things, in catth; Col. 1.20. Eneſ. 1.10. as hereafter will be manifeſt. Yea, the Creature it ſelf (to wit the irrational) ſhall be delivered into the glorious liberty of the Children of God, <hi>Rom.</hi> 8.21.</p>
+            <p>So that I ſay, Man and the Creation of God have a Reſtorer <hi>Coloſ.</hi> 1.20, but 'tis onely thee
+<pb n="6" facs="tcp:37164:5"/>Elect that ſhall come to this time; (the wicked being judged to hell before) See the next</p>
+            <p n="9">IX. <hi>Argument,</hi> from Epheſ. 1.14. — <hi>
+                  <g ref="char:V">Ʋ</g>ntil the Redemption of the purchaſed Poſſeſſi<g ref="char:EOLhyphen"/>on,</hi> —</p>
+            <p>Here it may be Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aeried, How Heaven (if that were the Poſſeſſion ſpoken of) can or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed be <hi>redeemed</hi> then? It was never under the <hi>Curſe;</hi> tho the Earth is, and the Crea<g ref="char:EOLhyphen"/>tures <hi>ſubjected in hope to the bondage of Corruption,</hi> until their deliverance at the <hi>manifeſta<g ref="char:EOLhyphen"/>tion of the Sins of God,</hi> ver. 19, 20, 21. And therefore the <hi>Redemption</hi> of the Poſſeſſion— appears to be by way of Deliverance and Reſtoration, as the Reſurrection of the Saints Bo<g ref="char:EOLhyphen"/>dies from the duſt of Death, is called, <hi>ver.</hi> 23. <hi>the Adoption, the Redemption of their Body.</hi>
+            </p>
+            <p>Chriſt purchaſed the Eternal Inheritance; and he is the <hi>Heir of all things,</hi> Hebr. 1.2. and the Saints <hi>joint heirs with him,</hi> Rom. 8.17, 18, <hi>&amp;c.</hi> And what Inheritance, see Rom. 4.13. and page 3.</p>
+            <p>X. <hi>Argument.</hi> That as neither the Soul nor Body of man hath loſt any Eſſential part by the Fall; but only depravity and miſery in both; ſo no eſſential powers of Heaven or Earth are loſt by the Fall; Still the Courſe of Nature is Lord in the Univerſe, in the Ve<g ref="char:EOLhyphen"/>getation of Plants, Courſes of the Luminaries, procreation of Animals, bounds of the Seas, Tides, &amp;c. Only evil qualities; a curſe inſtead of a Bleſſing. And now the promiſe, <hi>There ſhall be no more curſe,</hi> Revel. 22.3. will turn the thorn and brier into pleaſant plants; as the tenour of theſe Promiſes in Iſai. 55.13. Chap. 41.18, 19. (See page 7.) Though they have alſo a ſpiritual fulfilling in the New Creature, even now, yet when the Creation it ſelf (as a general good) ſhall be brought forth, that will be the abſolute and ultimate fulfilling; Or elſe, what is the meaning of <hi>the Restitution of all things,</hi> before ſpoken to? p. 3, 4.</p>
+            <p>XI. <hi>Argument,</hi> To prove the literal and eterral fulfilling the <hi>New Heavens and Earth,</hi> is that utter inconſiſtency of any other ſenſe (to be put upon the words in 2 <hi>Pet.</hi> 3.13. &amp; <hi>Rev.</hi> 21.1.</p>
+            <p>For 2. Pet. 3.13; <hi>Nevertheleſs we according to his promiſe look for New Heavens and a New Earth, wherein dwelleth Righteouſneſs:</hi> this evidently referrs to that Deſtruction of this preſent World by <hi>Fire,</hi> that he was treating of ver. 10. <hi>But the day of the Lord will come as a Thief in the night; in which the Heavens ſhall paſs away with a great neiſe, and the Elements ſhall melt with fervent heat, the Earth alſo and the works that are therein ſhall be burnt up.</hi> Now if this be a literal, viſible Deſtruction, and the Apoſtle comforts himſelf with a <hi>New</hi> ſtate upon the loſs of the <hi>Old,</hi> as ver. 13. Then, what more apparent, than that the <hi>New</hi> ſhall both be after the <hi>Old,</hi> and as viſible as the <hi>Old</hi> had been, in the ſame way and ſenſe?</p>
+            <p>And if it be a Viſible, material <hi>New State,</hi> then it ſhall not be (only) fulfilled in a My<g ref="char:EOLhyphen"/>ſtical way, in Church and State, in this Life. Beſides, after the Old World is deſtroyed, there will be no Church or State in being, to receive ſuch a fulfilling.</p>
+            <p>And then for <hi>Revel.</hi> 21.1. it alſo evidently referrs to <hi>Revel.</hi> 20.11. where the viſible <hi>Earth nd Heaven fled away</hi> at Chriſts <hi>Appearing</hi> to Judgment; and Chap. 11.1 Aſſerts a new Creation of both, in the room thereof; And therefore why not taken as vi<g ref="char:EOLhyphen"/>ſibly as the former?</p>
+            <pb n="7" facs="tcp:37164:5"/>
+            <p>
+               <hi>OBJECTIONS againſt the Literal and Eternal fulfilling of the New Heavens and Earth;</hi> Anſwered.</p>
+            <p n="1">1ſt. Object. <hi>'Tis expreſſly ſard of this State,</hi> Iſai 65.17. <hi>&amp;c. they ſhall live long, and build Houſes, plant Vineyards,</hi> &amp;c. <hi>which plainly belongs to this Life;</hi> Luke 20.35, 36. <hi>Andſe</hi> Revel. 21.24, 26. <hi>and</hi> Chap. 22.2. <hi>Expreſſions that muſt be fulfil<g ref="char:EOLhyphen"/>led while the Regenerate converſe with the <g ref="char:V">Ʋ</g>nregenerate; that is, before the day of Judgment.</hi>
+            </p>
+            <p n="1">
+               <hi>Anſw.</hi> 1. It is uſual in the Old Teſtament, to ſet out Spiritual Glories by carnal things, and it may be queſtion'd whether ſuch Expreſſions in <hi>Iſai.</hi> 65.17, <hi>&amp;c.</hi> may not be ſo taken.</p>
+            <p n="2">2. — But admit they be taken litterally: then indeed it is granted, that they do belong to the Life that now is.</p>
+            <p n="3">3. I do aſſert, that the ſame Scripture prophecys may poſſibly, (nay commonly) have diverſe times and ways of Fulfilling; and yet one ultimate fulfilling in a moſt eminent manner: As thoſe (before) <hi>Iſa.</hi> 41.19 <hi>Iſa.</hi> 55.13. — <hi>And I will plant in the wilderneſs the Cedar,</hi> &amp;c. — <hi>In ſtead of the Thorn ſhall come up the Firr-tree,</hi> &amp;c. Which are bleſſed Prorniſes of Goſpel Grace, now in the midſt of Babylons Captivity: And ſo thoſe of the Amity among the wild Beaſts, <hi>Iſa.</hi> 11.6. &amp;c. <hi>Iſa.</hi> 65.25. which in Goſ<g ref="char:EOLhyphen"/>pel times may hold forth bleſſed Grace, given to brutiſh feirce men, that (when the Saints <hi>find favour in the Eyes of the Lord</hi>) are made ſweetly to live in peace together: and yet all ſhort of the litteral and principal fulfilling, as the gleanings are of the Harveſt; when the poor-Earth ſhall ſpring up in the Glory of bleſſing; and the Beaſts iuſtead of terror (to be not only peaceable, but) to become Rays of their Creators Glory and Majeſty; <hi>in the Reſtitution of all things;</hi> (as before.)</p>
+            <p>So, in a word, I take the <hi>New Heavens</hi> and <hi>Earth</hi> in Iſa. 65. &amp;c. to be in a civil and Eccleſiaſtical Senſe; and to be fulfilled in a <hi>figurative</hi> ſenſe, in this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife.</p>
+            <p>But the <hi>New Heavens</hi> and <hi>Earth,</hi> in 2. <hi>Pet.</hi> 3.13, and <hi>Rev.</hi> 21.1. to be (alſo) pro<g ref="char:EOLhyphen"/>perly and <hi>litterally fulfilled;</hi> and that after the Old Heavens and Earth is deſtroyed by <hi>Fire</hi> (as before;) when there will be no place left for any other fulfilling.</p>
+            <p>So Chriſts laſt Appearing will Metaphorically be fulfilled before the 7th Seal, <hi>Rev.</hi> 6.14.</p>
+            <p>And to this, that Prophecies have diverſe and ſuccinct fulfillings, let me add that I un<g ref="char:EOLhyphen"/>derſtand that of the <hi>firſt Reſurrection,</hi> Rev. 20.5.6. which though a reality in it ſelf, yet there (to be) in expreſſion figurative, and in alluſion to <hi>the Reſurrecton of the juſt;</hi> (before that if the <hi>unjuſt;</hi>) Acts 24.15 For the <hi>Reſurrection</hi> to the 1000 years is not the bo<g ref="char:EOLhyphen"/>dily Reſurrection; becauſe the 1000 years is before Chriſts coming to raiſe the Saints. But as at the <hi>Reſurreation of the juſt</hi> at the laſt day, the Saints, and none but they ſhall be raiſed firſt, So in <hi>Revel.</hi> 20.4. None but the faithful then living, ſhall be ſpiritually Re<g ref="char:EOLhyphen"/>viv'd to <hi>reign with Chriſt</hi> (ſpiritually) a <hi>Thouſand years and the reſt of the Dead lived not again</hi> till afterwards, <hi>v.</hi> 5. And this <hi>firſt Reſurrection</hi> was ſo diſcriminating that <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſuch the ſecond death had no Power, ver.</hi> 6.</p>
+            <pb n="8" facs="tcp:37164:6"/>
+            <p>And ſo I take the <hi>Reign</hi> it ſelf in the 1000 years, [tho its ſaid <hi>Chriſt reigned with</hi> them yet not in perſon, but in ſpiritual Glory; and (I conceive] in a way of Prediction of that abſolute Perſection of his Dominion that would ſoon ſucceed after the 1000 <hi>years,</hi> upon the Deſtruction and Judgment of this World.</p>
+            <p>And becauſe the Opening this matter of the 1000 <hi>Years</hi> will be a Portal to all that ſhall ſucceed, and clear up the Demonſtration thereof, I ſhall briefly lay down ſome <hi>Demonſtra<g ref="char:EOLhyphen"/>tions</hi> that do Evince this for a Truth, that the 1000 years <hi>Reign</hi> of the Saints with <hi>Christ</hi> will be before, and (ſo) without, his perſonal preſence on the Earth.</p>
+            <p n="1">1. <hi>Demonstration,</hi> The <hi>Thouſand years</hi> is ſet forth in Scripture (and ſo generally un<g ref="char:EOLhyphen"/>derſtood) to be a time of Peace plenty liberty and rejoycing of the whole Earth: But when Chriſt comes in Perſon, it produces a univerſal Deſtruction, and Aſtoniſhment to the World; <hi>Revel.</hi> 6.15.—<hi>every bondman and every freeman crying to the Rocks,</hi> &amp;c. ſo Rev. 1.7. <hi>Matth.</hi> 24.30.</p>
+            <p n="2">2. <hi>Demonſtration.</hi> When Chriſt comes all the <hi>dead</hi> Saiuts are <hi>raiſed,</hi> and the <hi>living</hi> ſaints <hi>changed;</hi> and all <hi>(together) caught up to meet the Lord in the Air; and</hi> ſo to <hi>be for ever with the Lord,</hi> 1 <hi>Theſſ.</hi> 4.17, 18. So that from that time they could no more converſe with the unconverted of this World, as the <hi>Thouſand years</hi> requires: <hi>See</hi> Luke 20 35, 36.</p>
+            <p n="3">3. <hi>'Demonstration.</hi> When Chriſt comes, he comes <hi>in flaming fire, taking Vengeance on them that know not God,</hi> &amp;c. 2 <hi>Theſſ.</hi> 1.7, 8. <hi>Jude</hi> 14, 15. And then alſo <hi>the world and the works that are therein ſhall be burnt up;</hi> 2 Pet. 3.10.</p>
+            <p>Now all theſe perſons and things being deſtroyed at that day, if this were at the begin<g ref="char:EOLhyphen"/>ning of the <hi>Thouſand years,</hi> where were the <hi>reign</hi> (for a 1000 years after) of the Saints over the World, in converſe with the unregenerate.</p>
+            <p>Therefore Chriſts Coming is after the 1000 <hi>years.</hi>
+            </p>
+            <p n="4">4. <hi>Demonstration.</hi> Upon Chriſts coming and raiſing the Saints, &amp;c. then follows the Day of <hi>Judgment,</hi> 2 <hi>Tim.</hi> 4.1. Which is clearly ſet down (in the order of things) to follow the <hi>thouſand years,</hi> Revel. 20.11. to the end. See <hi>pag.</hi> 9, 10.</p>
+            <p>So that Chriſts coming (to Judgment) cannot be but after the 1000 years.</p>
+            <p n="5">5. <hi>Demonſtration. Pſ.</hi> 110.1. Act. 3.21 Chriſt is to remain at <hi>Gods right hand,</hi> till his <hi>Enemys</hi> be <hi>made his footſtool:</hi> But after the <hi>thouſand years Gog</hi> and <hi>Magog</hi> aſſault the Saints, <hi>Revel.</hi> 20.8.9. therefore he came not a thouſand years before, while that Enemy was unſubdued.</p>
+            <p n="6">6. <hi>Demonſtration.</hi> Neither is <hi>God</hi> his <hi>laſt Enemy,</hi> but <hi>Death</hi> is ſo called, 1. Cor. 15, 26. Therefore Chriſts coming is not till he comes to <hi>ſwallow up Death in Victory.</hi> (ver. 54.) in the Reſurrection of the Saints. <hi>See above.</hi>
+            </p>
+            <p n="4">4. <hi>Anſwer</hi> to the <hi>Objection</hi> (that Rev. 21.24, 26. and Ch. 22.2. <hi>relate to a Temporal</hi> (<hi>fulfilling in this World.</hi>)</p>
+            <p>'Tis granted; but yet conceived, that the ultimate import of the Viſion of <hi>New Je<g ref="char:EOLhyphen"/>ruſalem</hi> is finally reduceable to the Eternal State, and that on <hi>Earth;</hi> but as was aſſerted before, Prophecies have diverſe fulfillings; ſo to that miſtical ſenſe of <hi>New Heavens and Earth</hi> in (the purity &amp;c. of) Church and State, muſt thoſe Verſes in the <hi>Objection</hi> be re<g ref="char:EOLhyphen"/>terted: as inte<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>exed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n general, as to a glorious ſtate of the Saints, but properly belong<g ref="char:EOLhyphen"/>ing to the time of the <hi>Thouſand years.</hi>
+            </p>
+            <pb n="9" facs="tcp:37164:6"/>
+            <p>For the Saints Intereſt is called <hi>the beloved City</hi> then, Chap. 20.9. And in this Eter<g ref="char:EOLhyphen"/>nal ſtate called the <hi>great Citty,</hi> Cap. 21.10, &amp;c. But ſtill upon <hi>Earth;</hi> to which ſhe came down from <hi>Heaven,</hi> ver. 2. and we read not of her ever going up again.</p>
+            <p>Thus in theſe deep Myſteryes it pleaſes the Revealer of them to lay them down in words and methods hard to be underſtood. 2. <hi>Pet.</hi> 3.16. And no wonder if the Prophets them ſelves were to ſeek, what and what manner of <hi>times the Spirit of Chriſt which was in them did ſignify;</hi> 1. Pet. 1.10, 11. 1. Cor. 13.9.</p>
+            <p n="2">II. Object. <hi>The Eternal Inheritance is ſaid to be in Heaven,</hi> &amp;c. Coloſ. 1.5. Luke 12.33. 2. Cor 5.1.</p>
+            <list>
+               <item>
+                  <hi>Anſw.</hi> 1. 'Tis true, that Glory is <hi>preparing</hi> now in <hi>Heaven.</hi> Joh. 14.2, 3.</item>
+               <item>2. Yet will come <hi>down from Heaven</hi> at the laſt, <hi>Rev.</hi> 21.2; 11 And to <hi>be brought to the Saints</hi> from thence, 1. <hi>Pet.</hi> 1.13. <hi>Rom.</hi> 8.21. <hi>both they and the whole Creation groan,</hi> for the time when <hi>they ſhall receive the Adoption,</hi> (that is) <hi>the Redemption of their Body, from the Grave and the bondage of Corruption,</hi> &amp;c. ver. 21, 22, 23.</item>
+               <item>3. Yet it is true, That Chriſt and his Saints will be no Forreigners to <hi>Heaven</hi> alſo: For Chriſt was the <hi>Lord from Heaven</hi> (at firſt,) and ſince, made <hi>way into the holieſt by his own Blood,</hi> wherewith <hi>he ſprinkled the Mercy Seat:</hi> and that power whereby his Elect ſhall <hi>be caught up into the Air to meet him</hi> at his <hi>coming,</hi> can alſo take them higher into the <hi>third Heavens:</hi> (But theſe things <hi>Eye hath not ſeen, nor Ear heard,</hi> &amp;c.) But in 2. <hi>Pet.</hi> 3.13. 'Tis the <hi>New Heavens</hi> as well as <hi>the New Earth,</hi> that is there propoſed as the Object of Faith and Hope; <hi>wherein ſhall dwell Righteouſneſs.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="appendix">
+            <head>An <hi>APPENDIX</hi> touching <hi>the Reſurrection of the Juſt and Unjuſt,</hi> Acts <hi>24.15.</hi> and the <hi>Judgment</hi> of both: In <hi>Anſwer</hi> to this</head>
+            <p>Queſtion, <hi>How it is ſaid the Saints muſt all ſtand before the Judgment ſeat of Chriſt,</hi> Rom. 14.10. <hi>and give an account</hi> (every one <hi>of himſelf</hi>) <hi>to God,</hi> ver. 12, <hi>and receive accord<g ref="char:EOLhyphen"/>ing to their Deeds;</hi> 2 Cor. 5.10. Coloſs. 3.24.25. and yet it is ſaid, That they themſelves <hi>ſhall ſit upon Thrones judging the World,</hi> &amp;c? Mat. 19.28. 2 cor. 6.2, 3.</p>
+            <p>
+               <hi>Anſwer.</hi> (Conſider the ſixth and ſeventh Particulars following, but)</p>
+            <p>Take a <hi>Series</hi> of particulars (according to meaſure) of things to be from Chriſts ap<g ref="char:EOLhyphen"/>pearing, unto the Eternal ſtate—
+<list>
+                  <item>1. The Appearing of <hi>Chriſt in the Clouds of Heaven,</hi> Matth. 24.30. Revel. 1.7.</item>
+                  <item>2. The Conſternation of the wicked (great and ſmall) at the ſeeing of h n. Rev 6.14, 15, 16, 17. Matth. 24.30.</item>
+                  <pb n="10" facs="tcp:37164:7"/>
+                  <item>3. The <hi>Voice</hi> of Chriſt Raiſing the Saints <hi>out of their Graves,</hi> John 5.28. 1 <hi>Cor.</hi> 15.23. this is (<hi>the firſt Reſurrection; the Reſurrection of the Juſt,</hi> Luke 14.14. the Li<g ref="char:EOLhyphen"/>ving Saints to be changed, 1 <hi>Theſſ.</hi> 4.17.</item>
+                  <item>4. <hi>Chriſt ſending his Angels to Gather them</hi> (being raiſed) as Matth. 24.31. 1 Theſſ. 4.16, 17. and (the living Saints being changed) they are all <hi>(together) caught up to meet the Lord in the air,</hi> ver. 17.</item>
+                  <item>5. <hi>The burning up of the World and its works;</hi> and deſtroying the <hi>ungodly,</hi> then found alive, 2 Pet. 3.10. <hi>ver.</hi> 7. The Righteous being Caught up before; as <hi>Noah</hi> and <hi>Lot</hi> were taken out of the places to be deſtroyed, <hi>Luke</hi> 17.27, 29.</item>
+                  <item>6. Then the Lord Jeſus will <hi>Sit upon the Throne of Judgment, to judge his people;</hi> as Pſal. 50. 1, 2, 3, 4, 5, 6. that were raiſed to the Reſurrection of Life, Act 24.15. Jo. 5.29. all the <hi>unjust</hi> continuing in their Graves till th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Judgment is over: for they <hi>ſhall not ſtand in this Judgment, nor ſinners in the Congregation of the righteous, Pſalm</hi> 1.5. But here Chriſt will <hi>take an Account of his Servants.</hi>
+                     <p>And at this time it is, the ſaints ſhall <hi>all ſtand before</hi> his <hi>Judgment ſeat,</hi> and <hi>give</hi> their <hi>account;</hi> and <hi>receive according.</hi> But whatever blame may be laid on any in this Judg<g ref="char:EOLhyphen"/>ment, their ſins will all be <hi>blotted out</hi> then, <hi>Acts</hi> 3.19. Rom. 8.1. <hi>Mal.</hi> 3.1, 2, 3, 5, 17. Mer<g ref="char:EOLhyphen"/>cy will here <hi>rejoyce</hi> againſt <hi>judgment;</hi> Jude 21. 2 <hi>Tim.</hi> 1.16, 18. as in the <hi>judgment</hi> of the unjuſt (following) there ſhall be <hi>judgment without mercy,</hi> Jam. 2.13.</p>
+                     <p>In this Judgment <hi>of the juſt</hi> gracious ſouls will ſhine wondrouſly, 1 Pet. 1.7. Rom. 2.7. 1 Theſ. 2.19, 20. 1 Cor. 4.5.</p>
+                     <p>But where fault is found with any of their works, <hi>&amp;c.</hi> there will be <hi>no Purgatory,</hi> by be<g ref="char:EOLhyphen"/>ing puniſhed (for a time) from the Lords preſence; For they muſt thenceforth <hi>be for ever with the Lord,</hi> 1 Theſſ. 4.18.</p>
+                     <p>Tho ſome may ſuffer loſs, 1 Cor. 3.15. (trouble, 2 Pet. 3.14. ſhame, 1 John 2.28; grief, <hi>Hebr.</hi> 13.17.) yet (as in this time, much more then) the ſaints <hi>judging themſelves,</hi> ſhall <hi>not be judged</hi> of the Lord, (as 1 Cor. 11.31.) to condemnation, Rom. 8.1.</p>
+                     <p>After the ſaints are thus Judged by the Lord Jeſus, and therein Refined, <hi>&amp;c.</hi> Mal. 3.2, 3, 4, 5. 1 Cor. 3.15, then, as Malac. 3.5. he will be a <hi>ſwift Witneſs</hi> to judg the wicked, &amp;c. and in order thereunto</p>
+                  </item>
+                  <item>7. He will raiſe <hi>the unjuſt:</hi> and all that are Raiſed now, not having part in the <hi>firſt Reſurrection of the juſt;</hi> will fall under the <hi>ſecond Death:</hi> This being the <hi>Reſurrection of Damnation,</hi> Joh. 5.29.
+<p>And now in this Judgment it is, that the ſaints are <hi>to ſit on thrones,</hi> and <hi>judge the world,</hi> and <hi>Angels;</hi> having given their own accounts before, upon their firſt Reſurrection and Judg<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>It appears <hi>Matth.</hi> 19.28. the Twelve Appoſtles ſhall judge the 12 Tribes: and alſo that the ſaints in all ages judge their reſpective Perſecutors, 1 Cor. 6.2, 3. <hi>See</hi> Rev. 2.26, 27.</p>
+                     <p>Then will be fulfilled that Prophecy of <hi>Balaam,</hi> Num. 24 17.18—<hi>I ſhall behold him but not night: there ſhall come a Star out of</hi> Jacob, &amp;c. <hi>and ſhall ſmite the Corners of Mo<g ref="char:EOLhyphen"/>ab;</hi> (deſtroy the World and the Wicked by fire:) <hi>and deſtroy</hi> (or unwall, as Mr. <hi>Ieſſey</hi> ren<g ref="char:EOLhyphen"/>dred it from the <hi>Hebr.</hi>) <hi>all the children of Seth;</hi> who was the godly Progenitor in <hi>Abels</hi> room: ſo that his Children comprize all the ſaints, and refers to the firſt bodily Reſurre<g ref="char:EOLhyphen"/>ction and change that ſhall paſs upon them.</p>
+                     <p>
+                        <hi>Ver.</hi> 18. <hi>And Edom ſhall be a Poſſeſſion,</hi> &amp;c. <hi>and Iſrael ſhall dovaliantly:</hi> While they
+<pb n="11" facs="tcp:37164:7"/>are <hi>judging</hi> their Enemies, and <hi>Talents</hi> unimproved <hi>took from</hi> the Condemned, <hi>and given</hi> to their Noble Judges, that did improve their own.</p>
+                  </item>
+                  <item>8. After the end of this (part of the) Judgment alſo, then the ſaints, leaving their <hi>Judg<g ref="char:EOLhyphen"/>ment-ſeats:</hi> (as Chriſt himſelf will ſoon after <hi>Deliver up the Kingdom to God the Father</hi>) then (it appears to be,) he will <hi>ſet</hi> the Saints, <hi>the Sheep on his right hand, and the Goats on the left;</hi> and pronounce the final Sentences ſeverally upon them; as <hi>Math.</hi> 25.31, 32, 33, &amp;c.</item>
+                  <item>9. And now <hi>all</hi> being <hi>ſubdued unto him,</hi> he will <hi>Deliver up the Kingdom to God, — that put all things under him; That God may be all in all,</hi> 1 Cor. 15.24.28.</item>
+                  <item>10. Finally, Rev. 21.5. <hi>He that ſate upon the Thrones ſaid, Behold</hi> I <hi>make all things new:</hi> (to wit) <hi>a new Heaven and a new Earth, for the firſt were paſſed away,</hi> verſ. 1.) And (as it was ſaid of the Earth of old, <hi>he Created it not in vain, he formed it to be inhabited,</hi> Iſa. 45.18. ſo) being now thus <hi>New</hi> Created it is not to be deſtroyed; but made a glorious Ci<g ref="char:EOLhyphen"/>ty of <hi>Habitation;</hi> and the place of that <hi>Kingdom</hi> which is <hi>not of this World:</hi> (That is as to his Perſonal preſence) in that abſolute Glory of Perfection, that will be worthy his Divine Majeſty; Who now <hi>dwells in that Light that is unapproachable,</hi> 1 Tim. 6.16.</item>
+               </list>
+            </p>
+            <p>
+               <hi>One OBJECTION</hi> from theſe 2 laſt particulars, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>If God will be all in all, upon Chriſts delivering up the Kingdom, Then Chriſt hath no (more a) Kingdom forever.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is a miſtake of 1 <hi>Cor.</hi> 15.24.28. which muſt be underſtood of <hi>the Kingdom</hi> (as now it is) with reſpect to the preſent Diſpenſation: and to confirm this, Let me De<g ref="char:EOLhyphen"/>clare a <hi>Myſtery;</hi> Which is this; upon Mans Fall the Enemies of God increaſing, <hi>Christ</hi> as Mediator (who was with Moſes and the Church of old, <hi>Heb.</hi> 11.26. 1 <hi>Cor.</hi> 10.4.) was ſet up and ruled inviſibly over all the World: but when he was by his <hi>Reſurrection declared to be the Son of God with Power</hi> and <hi>all Power</hi> then <hi>given him,</hi> Math. 28.18 When he <hi>Aſcen<g ref="char:EOLhyphen"/>ded</hi> and <hi>God ſet him at his own right hand in the Heavenly</hi> places, <hi>Epheſ.</hi> 1.20. It was upon this Account, <hi>till he makes his Enemies his Footſtool.</hi> So that its clear, the whole Reign of Chriſt now upon his <hi>Fathers Throne. Rev.</hi> 3.21.) from his firſt being <hi>ſat down</hi> thereon (till he comes from <hi>Heaven,</hi>) is a <hi>Subduing Kingdom</hi> (Only a 1000 years Triumph, and then the Enemies break forth again:) And that by <hi>God</hi> himſelf in Honour of his <hi>Son;</hi> Which Honour doubtleſs is not to be leſs when all is actually and compleatly ſubdued to him; for that were to loſe the end of God in making his Foes his Footſtool; Only as he owned here on Earth <hi>My Father is greater than I,</hi> John 14.28. So, all <hi>being ſubdued to him,</hi> and he being Man as well as God, muſt ſtill continue, (under that conſideration,) his inferiority to <hi>the Father,</hi> who is <hi>the head of Chriſt.</hi> 1 Cor. 11.3. by becoming <hi>Subject,</hi> that <hi>God may be all in all;</hi> Which is very confiſtent with his retaining the Glory of <hi>his Everla<g ref="char:EOLhyphen"/>sting Kingdom</hi> among <hi>the Sanctified Sons of Men.</hi>
+            </p>
+            <p>Enemies being ſubdued, there needs no further ſubbduing power, or the <hi>ſubduing King<g ref="char:EOLhyphen"/>dom.</hi>
+            </p>
+            <p>Thus God brings <hi>Good out of Evil:</hi> Iſrael ſinned in d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſiring a King, but <hi>David</hi> and o<g ref="char:EOLhyphen"/>ther Kings were Bieſſings to them, and Types of this Eternal King: For the <hi>Reſtitution,</hi> as <hi>pag.</hi> 3.) will be augmentative by the Experience of fallen man reſtored, and by the Glory
+<pb n="12" facs="tcp:37164:8"/>of <hi>the Lord from Heaven,</hi> 1 Cor. 15.44.47.48. And ſo the Eternal Glory is expreſsly cal<g ref="char:EOLhyphen"/>led a <hi>Kingdom;</hi> What did man in innocency know what Kingdom meant? <hi>&amp;c.</hi> But all things according to the <hi>purpoſe of God,</hi> (before time,) <hi>Epheſ.</hi> 1.11.</p>
+         </div>
+         <div type="conclusion">
+            <head>The Concluſion.</head>
+            <list>
+               <item>1. THat no unſanctified Spirits may trouble themſelves herewith, <hi>Pſal.</hi> 50.16. unleſs they truly reſolve to turn God.</item>
+               <item>2. And that none that do belong to God would be diſcouraged, if after refreſhing here<g ref="char:EOLhyphen"/>by, they ſhould find Deadneſs and Darkneſs in theſe things; which is no ſtrange thing, nor the Truth ever the worſe, the Author is <hi>not</hi> quite <hi>ignorant of his Devices,</hi> 2 Car, 2.11. and leſt ſuch ſhould faint under ſuch Trials, let them conſider <hi>Coloſ.</hi> 3.3.4. 1 <hi>Joh.</hi> 3.2.</item>
+               <item>3. If the World (ſo renewed) ſhall be the Saints, Let them <hi>take</hi> the Council of <hi>Joſeph</hi> to <hi>Jacob,</hi> Gen. 46.20. <hi>Alſo regard not your Stuff, for the good of all the Land of</hi> Egypt <hi>is yours, Be content</hi> (in the Faith of this) <hi>with Food and Rayment.</hi> 1 Tim. 6.8. Tho like <hi>A<g ref="char:EOLhyphen"/>braham</hi> you have <hi>not</hi> yet one <hi>Foot of Inheritance</hi> in the Land of Promiſe; <hi>Act.</hi> 7.5. Tho Strangers now, yet we ſhould look upon the Earth with comfort, as our proper Poſſeſſion, hereafter to be Redeemed, <hi>Eph.</hi> 1.14. <hi>Rom.</hi> 8.20.</item>
+               <item>4. Lay up <hi>a good Foundation againſt this time to come,</hi> 1 Tim 6.19. i. e. by doing good to others, See <hi>Math.</hi> 25.34.35. <hi>Luk.</hi> 14.14. <hi>Epheſ.</hi> 6.8. The <hi>Reward</hi> (tho not for the good Deed, yet) will be proportionable to the works of Vertue and Charity; ſee 2 Cor. 9.6. Ten <hi>Talents</hi> improved redounds to <hi>Ten Cities; Five Talents to five Cities,</hi> Luk. 19.17.19. (Except what great grace in any will multiply their little, as <hi>Mark</hi> 12.42, 43. God is a free Agent, and alſo Juſt;) I ſay there will be Dominion in the World to come: Eaſe what means the <hi>Crowns</hi> promiſed 2 <hi>Tim.</hi> 4.8. 1 Cor. 9.25. and <hi>a Kingdom,</hi> Luk. 22.29. And if e<g ref="char:EOLhyphen"/>very Saint ſhall Reign in Glory, much more the King of <hi>Saints;</hi> notwithſtanding his <hi>deli<g ref="char:EOLhyphen"/>vering up the Kingdom to God, and becoming Subject,</hi> &amp;c. which therefore muſt be under<g ref="char:EOLhyphen"/>ſtood of his delivering up his Commiſſion to him <hi>that had</hi> put all things under him; That the Humane Nature of Chriſt, as becometh the Creature, (all the great Works of the Me<g ref="char:EOLhyphen"/>diator being finiſhee,) may acquieſs in acknowledging the Superiority of the Divine being; Yet ſhining Gloricuſly through God in the Glory of the Mediatorſhip (accompliſhed;) in the Love and Glory of the Saints, and in all peace and abſolute perfection in the Glory of be<g ref="char:EOLhyphen"/>ing <hi>King</hi> in and amongſt them, and they in him.</item>
+               <item>5. I would have none Oppoſe themſelves in this Doctrine of the New World, to think that Heaven is excluded, ſee <hi>pag.</hi> 9. Heaven will be more appropriate to Man by Chriſt, than it could have been by the firſt Man <hi>Adam,</hi> 1 Cor. 15.47.50. But as Heaven is ſuper<g ref="char:EOLhyphen"/>added, ſo the Earth ſhall be Reſtored: and therefore the <hi>New Heavens and New Earth</hi> are very conſiſtent.</item>
+            </list>
+            <pb n="13" facs="tcp:37164:8"/>
+            <list>
+               <head>A Confirmation of the Earths Eternal Duration in the State of Eternal Glory.</head>
+               <item>1. THE Body of Man is made of the Duſt of the Ground, yet made Immortal by put<g ref="char:EOLhyphen"/>ting on Immortality, 1 <hi>Cor.</hi> 15.54. So may the Earth be Eternized by Chriſt for the Glory and Good of Man.</item>
+               <item>2. He that will reſtore it from under the Curſe, can perpetuate that reſtored State, <hi>Rev.</hi> 22.3.</item>
+               <item>3. God that made it of nothing, can much more uphold it forever, being made.</item>
+               <item>4. Though the Earth be a material groſs body, yet the Foundations of it are unſearch<g ref="char:EOLhyphen"/>able and Divine, <hi>Job.</hi> 38.6. yea it hangs upon nothing <hi>chap.</hi> 26.7. the principle of Nature is confounded here, by that adequate poize of this Terrene Globe<g ref="char:punc">▪</g> ſo that (by Divine Arti<g ref="char:EOLhyphen"/>fice) it is ſaid to be ſo laid on the Foundations as not to be removed forever, <hi>Pſal.</hi> 104.5. And I refer it to conſideration, whether theſe be not the Foundations in <hi>Heb.</hi> 11.10. at leaſt by way of Alluſion, When all Humane works will turn over to the Foundations in the day of the Lord, 2 <hi>Pet.</hi> 3.10. But the World to come (after that) is for the Children of the Re<g ref="char:EOLhyphen"/>ſurrection, <hi>Luke</hi> 20.35, 36.</item>
+               <item>5. And whereas ſome ſay the Earth will be turned into its firſt Chaos, and be a place of Torment; yet how would that ſuit the Notion of a Lake, (as Hell is called,) <hi>pag.</hi> 5. Beſides, this very Tenet grants the thing; For if it be a place of Torment forever, then it ſhall abide forever, and that ſame Divine power that might uphold it as a place of Fire and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent, can much more preſerve it in its Verdure and Glory, as a place of Divine Preſence, Happineſs and Glory to the Heirs of Glory.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
